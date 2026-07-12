@@ -1,6 +1,6 @@
 <!-- Typing Animation Header -->
 <p align="center">
-  <a href="https://github.com/de-codeur">
+  <a href="https://github.com/codewitdean">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Dean!;Software+Engineer+;Mobile+Developer;Full-Stack+Developer;+%7C+Problem+Solver&center=true&size=25&color=00A8FF">
   </a>
 </p>
